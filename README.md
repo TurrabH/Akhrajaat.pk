@@ -2,13 +2,13 @@
 Akhrajaat.pk - Finance Tracking Web App
 
 
-![Akhrjaat PK](https://github.com/abdi-z/InternalMD/assets/92116477/99a5f1de-a588-4912-ab78-cd7909c35008)
+![Akhrjaat PK](https://user-images.githubusercontent.com/92116477/169133953-c10a900a-d4fa-4a69-9cd2-1c8c4ef9f678.png)
 
 
-![Akhrajaat pk](https://github.com/abdi-z/InternalMD/assets/92116477/4c2d3440-bf05-44d6-81d1-7993560dc83e)
+![Akhrajaat pk](https://user-images.githubusercontent.com/92116477/169133896-835163ee-29ed-48be-acb5-da86b3890145.png)
 
 
-![Akhrajaat pk 3](https://github.com/abdi-z/InternalMD/assets/92116477/778d2b06-9e93-4d97-92eb-73317e024cda)
+![Akhrajaat pk 3](https://user-images.githubusercontent.com/92116477/169133921-4c7ec0d0-73c4-464a-9702-c3c9a7e76688.png)
 
 
 Akhrajaaat.pk is a personal spending and finance tracker web app that allows users to keep track of their finances anywhere on the go.
